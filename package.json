@@ -1,6 +1,6 @@
 {
   "name": "@engyalo/fb-messenger-events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Events tracking to bots messenger analytics.",
   "main": "lib/index.js",
   "scripts": {
